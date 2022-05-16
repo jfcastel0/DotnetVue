@@ -1,0 +1,17 @@
+C:\Users\joshc\OneDrive\Desktop\Travel\src\infrastructure\Travel.Shared\bin\Debug\net5.0\Travel.Shared.deps.json
+C:\Users\joshc\OneDrive\Desktop\Travel\src\infrastructure\Travel.Shared\bin\Debug\net5.0\Travel.Shared.dll
+C:\Users\joshc\OneDrive\Desktop\Travel\src\infrastructure\Travel.Shared\bin\Debug\net5.0\ref\Travel.Shared.dll
+C:\Users\joshc\OneDrive\Desktop\Travel\src\infrastructure\Travel.Shared\bin\Debug\net5.0\Travel.Shared.pdb
+C:\Users\joshc\OneDrive\Desktop\Travel\src\infrastructure\Travel.Shared\bin\Debug\net5.0\Travel.Application.dll
+C:\Users\joshc\OneDrive\Desktop\Travel\src\infrastructure\Travel.Shared\bin\Debug\net5.0\Travel.Domain.dll
+C:\Users\joshc\OneDrive\Desktop\Travel\src\infrastructure\Travel.Shared\bin\Debug\net5.0\Travel.Application.pdb
+C:\Users\joshc\OneDrive\Desktop\Travel\src\infrastructure\Travel.Shared\bin\Debug\net5.0\Travel.Domain.pdb
+C:\Users\joshc\OneDrive\Desktop\Travel\src\infrastructure\Travel.Shared\obj\Debug\net5.0\Travel.Shared.csproj.AssemblyReference.cache
+C:\Users\joshc\OneDrive\Desktop\Travel\src\infrastructure\Travel.Shared\obj\Debug\net5.0\Travel.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshc\OneDrive\Desktop\Travel\src\infrastructure\Travel.Shared\obj\Debug\net5.0\Travel.Shared.AssemblyInfoInputs.cache
+C:\Users\joshc\OneDrive\Desktop\Travel\src\infrastructure\Travel.Shared\obj\Debug\net5.0\Travel.Shared.AssemblyInfo.cs
+C:\Users\joshc\OneDrive\Desktop\Travel\src\infrastructure\Travel.Shared\obj\Debug\net5.0\Travel.Shared.csproj.CoreCompileInputs.cache
+C:\Users\joshc\OneDrive\Desktop\Travel\src\infrastructure\Travel.Shared\obj\Debug\net5.0\Travel.Shared.csproj.CopyComplete
+C:\Users\joshc\OneDrive\Desktop\Travel\src\infrastructure\Travel.Shared\obj\Debug\net5.0\Travel.Shared.dll
+C:\Users\joshc\OneDrive\Desktop\Travel\src\infrastructure\Travel.Shared\obj\Debug\net5.0\ref\Travel.Shared.dll
+C:\Users\joshc\OneDrive\Desktop\Travel\src\infrastructure\Travel.Shared\obj\Debug\net5.0\Travel.Shared.pdb

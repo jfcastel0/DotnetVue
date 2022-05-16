@@ -1,0 +1,13 @@
+C:\Users\joshc\OneDrive\Desktop\Travel\src\core\Travel.Application\bin\Debug\netstandard2.1\Travel.Application.deps.json
+C:\Users\joshc\OneDrive\Desktop\Travel\src\core\Travel.Application\bin\Debug\netstandard2.1\Travel.Application.dll
+C:\Users\joshc\OneDrive\Desktop\Travel\src\core\Travel.Application\bin\Debug\netstandard2.1\Travel.Application.pdb
+C:\Users\joshc\OneDrive\Desktop\Travel\src\core\Travel.Application\bin\Debug\netstandard2.1\Travel.Domain.dll
+C:\Users\joshc\OneDrive\Desktop\Travel\src\core\Travel.Application\bin\Debug\netstandard2.1\Travel.Domain.pdb
+C:\Users\joshc\OneDrive\Desktop\Travel\src\core\Travel.Application\obj\Debug\netstandard2.1\Travel.Application.csproj.AssemblyReference.cache
+C:\Users\joshc\OneDrive\Desktop\Travel\src\core\Travel.Application\obj\Debug\netstandard2.1\Travel.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshc\OneDrive\Desktop\Travel\src\core\Travel.Application\obj\Debug\netstandard2.1\Travel.Application.AssemblyInfoInputs.cache
+C:\Users\joshc\OneDrive\Desktop\Travel\src\core\Travel.Application\obj\Debug\netstandard2.1\Travel.Application.AssemblyInfo.cs
+C:\Users\joshc\OneDrive\Desktop\Travel\src\core\Travel.Application\obj\Debug\netstandard2.1\Travel.Application.csproj.CoreCompileInputs.cache
+C:\Users\joshc\OneDrive\Desktop\Travel\src\core\Travel.Application\obj\Debug\netstandard2.1\Travel.Application.csproj.CopyComplete
+C:\Users\joshc\OneDrive\Desktop\Travel\src\core\Travel.Application\obj\Debug\netstandard2.1\Travel.Application.dll
+C:\Users\joshc\OneDrive\Desktop\Travel\src\core\Travel.Application\obj\Debug\netstandard2.1\Travel.Application.pdb
